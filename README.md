@@ -37,9 +37,9 @@ The Online Book Store API used the following terminologies
 - C# and .NET technologies
 - ASP.NET Core
 - Entity Framework Core
-- JWT (JSON Web Tokens) for authentication
-- Microsoft Identity for user management
-- Microsoft SQL Server for the database
+- JWT (JSON Web Tokens) for authentication. 
+- BC.crypt for password hash. 
+- Microsoft SQL Server for the database. 
 
 ## Prerequisite
 
