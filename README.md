@@ -13,7 +13,7 @@
 
 Welcome to the online book store project. This API provides a comprehensive and user-friendly guide that would aid in navigating your way on the online book store system. It enables users to register, login,view,search for available books and purchase them.Even if you are a user eager to explore the functionalities or a developer intergrating with the API.
 
-Admins Have Following Access for this online store site:
+Admins Have Following Access(In addition to the users' access) for this online store site:
 
 - Add New Books.
 - View Books Available.
@@ -26,8 +26,9 @@ Users Have Following Access for this online store site:
 - View Books Available.
 - Search for Books.
 - Add a book to cart.
+- View cart
 - Remove a book from cart.
-- Purchase Books.
+  
 
 ## Terminologies Used
 
