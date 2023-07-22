@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-- Introduction
-- Terminologies Used
-- Prerequisites
-- Getting Started
-- Contibutors
-- User Guide
+- [Introduction](#Introduction) 
+- [Terminologies Used](#technologies-used) 
+- [Prerequisites](#prerequisites) 
+- [Getting Started](#getting-started) 
+- [Contibutors](#contributors) 
+- [User Guide](#user-guide) 
 
 ## Introduction
 
