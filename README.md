@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Introduction](#Introduction) 
-- [Terminologies Used](#technologies-used) 
+- [Terminologies Used](#terminologies-used) 
 - [Prerequisites](#prerequisites) 
 - [Getting Started](#getting-started) 
 - [Contibutors](#contributors) 
